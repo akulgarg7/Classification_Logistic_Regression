@@ -11,4 +11,6 @@
     <li>Tune threshold and explain sigmoid function.</li>
 </ol>
 
+The dataset used is The Breast Cancer Wisconsin (Diagnostic) Data Set: www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+
 By doing this, I learnt: <b>Binary classification, evaluation metrics, sigmoid curve, Logistic Regression.</b>
